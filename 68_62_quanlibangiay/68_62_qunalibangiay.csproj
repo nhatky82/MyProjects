@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F2BA89B0-F46C-4CC1-ABE1-B8E5EB1A9982}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_68_62_qunalibangiay</RootNamespace>
+    <AssemblyName>68_62_qunalibangiay</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsquanlibanhang.cs" />
+    <Compile Include="FormChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChinh.Designer.cs">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmkichthuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkichthuoc.Designer.cs">
+      <DependentUpon>frmkichthuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDonBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDonBan.Designer.cs">
+      <DependentUpon>HoaDonBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDonMua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDonMua.Designer.cs">
+      <DependentUpon>HoaDonMua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang.Designer.cs">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoaiSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoaiSP.Designer.cs">
+      <DependentUpon>LoaiSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mau.designer.cs">
+      <DependentUpon>mau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemuALL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemuALL.Designer.cs">
+      <DependentUpon>MemuALL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhaCungcap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhaCungcap.Designer.cs">
+      <DependentUpon>NhaCungcap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien.Designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sanpham.designer.cs">
+      <DependentUpon>sanpham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanPhamTim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPhamTim.Designer.cs">
+      <DependentUpon>SanPhamTim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanPham_CTSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPham_CTSP.Designer.cs">
+      <DependentUpon>SanPham_CTSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="size.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="size.Designer.cs">
+      <DependentUpon>size.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimHDBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimHDBan.Designer.cs">
+      <DependentUpon>TimHDBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimHDMua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimHDMua.Designer.cs">
+      <DependentUpon>TimHDMua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimKhachHang.Designer.cs">
+      <DependentUpon>TimKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimkiemSize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimkiemSize.Designer.cs">
+      <DependentUpon>TimkiemSize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimLoaiSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimLoaiSP.Designer.cs">
+      <DependentUpon>TimLoaiSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimMau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimMau.Designer.cs">
+      <DependentUpon>TimMau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimNhacc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimNhacc.Designer.cs">
+      <DependentUpon>TimNhacc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimNhanVien.Designer.cs">
+      <DependentUpon>TimNhanVien.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormChinh.resx">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkichthuoc.resx">
+      <DependentUpon>frmkichthuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDonBan.resx">
+      <DependentUpon>HoaDonBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDonMua.resx">
+      <DependentUpon>HoaDonMua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang.resx">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoaiSP.resx">
+      <DependentUpon>LoaiSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mau.resx">
+      <DependentUpon>mau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemuALL.resx">
+      <DependentUpon>MemuALL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhaCungcap.resx">
+      <DependentUpon>NhaCungcap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sanpham.resx">
+      <DependentUpon>sanpham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPhamTim.resx">
+      <DependentUpon>SanPhamTim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPham_CTSP.resx">
+      <DependentUpon>SanPham_CTSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="size.resx">
+      <DependentUpon>size.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimHDBan.resx">
+      <DependentUpon>TimHDBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimHDMua.resx">
+      <DependentUpon>TimHDMua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimKhachHang.resx">
+      <DependentUpon>TimKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimkiemSize.resx">
+      <DependentUpon>TimkiemSize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimLoaiSP.resx">
+      <DependentUpon>TimLoaiSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimMau.resx">
+      <DependentUpon>TimMau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimNhacc.resx">
+      <DependentUpon>TimNhacc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimNhanVien.resx">
+      <DependentUpon>TimNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thiết kế chưa có tên.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2023-05-07 100549.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

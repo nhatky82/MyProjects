@@ -1,0 +1,95 @@
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.AssemblyReference.cache
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.GenerateResource.cache
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.CoreCompileInputs.cache
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.Properties.Resources.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\bin\Debug\68_62_qunalibangiay.exe.config
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\bin\Debug\68_62_qunalibangiay.exe
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\bin\Debug\68_62_qunalibangiay.pdb
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.FormChinh.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.frmkichthuoc.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.HoaDonBan.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.HoaDonMua.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.KhachHang.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.LoaiSP.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.mau.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.NhaCungcap.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.NhanVien.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.sanpham.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimMau.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.exe
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.pdb
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.SanPhamTim.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.size.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.SuggestedBindingRedirects.cache
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimkiemSize.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimKhachHang.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimNhanVien.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimNhacc.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimLoaiSP.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimHDBan.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimHDMua.resources
+D:\ky\Windows\quanlibangiayky\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.SanPham_CTSP.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\bin\Debug\68_62_qunalibangiay.exe.config
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\bin\Debug\68_62_qunalibangiay.exe
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\bin\Debug\68_62_qunalibangiay.pdb
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.AssemblyReference.cache
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.SuggestedBindingRedirects.cache
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.FormChinh.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.frmkichthuoc.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.HoaDonBan.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.HoaDonMua.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.KhachHang.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.LoaiSP.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.mau.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.NhaCungcap.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.NhanVien.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.Properties.Resources.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.sanpham.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.SanPhamTim.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.SanPham_CTSP.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.size.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimHDBan.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimHDMua.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimKhachHang.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimkiemSize.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimLoaiSP.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimMau.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimNhacc.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimNhanVien.resources
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.GenerateResource.cache
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.CoreCompileInputs.cache
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.exe
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.pdb
+D:\CD TH 21 WEB C\LTWindows\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.MemuALL.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\bin\Debug\68_62_qunalibangiay.exe.config
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\bin\Debug\68_62_qunalibangiay.exe
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\bin\Debug\68_62_qunalibangiay.pdb
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.AssemblyReference.cache
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.SuggestedBindingRedirects.cache
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.FormChinh.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.frmkichthuoc.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.HoaDonBan.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.HoaDonMua.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.KhachHang.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.LoaiSP.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.mau.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.MemuALL.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.NhaCungcap.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.NhanVien.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.Properties.Resources.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.sanpham.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.SanPhamTim.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.SanPham_CTSP.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.size.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimHDBan.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimHDMua.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimKhachHang.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimkiemSize.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimLoaiSP.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimMau.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimNhacc.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\_68_62_qunalibangiay.TimNhanVien.resources
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.GenerateResource.cache
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.csproj.CoreCompileInputs.cache
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.exe
+D:\ky\Windows\##video-đồ án\68_62_quanlibangiay\obj\Debug\68_62_qunalibangiay.pdb
